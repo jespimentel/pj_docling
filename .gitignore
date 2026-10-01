@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Arquivos produzidos ao processar PDFs de teste nesta pasta
+saida_docling/
